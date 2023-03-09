@@ -46,6 +46,8 @@ dependencies:
   data_connection_checker_tv: ^0.3.5-nullsafety
   #Read image SVG
   flutter_svg: ^1.1.0
+  #Add fonts by google
+  google_fonts:
 
 dev_dependencies:
   flutter_test:
